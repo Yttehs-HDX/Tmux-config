@@ -8,11 +8,14 @@ Istall ``tmux`` and setup [``tpm``](https://github.com/tmux-plugins/tpm) first.
 
 ```bash
 $ git clone https://github.com/Yttehs-HDX/Tmux-config.git ~/.tmux
-$ cp ~/.tmux/.tmux.conf ~/.tmux.conf
+$ cd ~/.tmux
+$ ./setup.sh
 ```
 
 Finally install in tmux session.
 
 ```bash
-$ tmux # install all plugins
+$ tmux
 ```
+
+Press `prefix` + <kbd>I</kbd> (capital i, as in **I**nstall) to fetch the plugin.
