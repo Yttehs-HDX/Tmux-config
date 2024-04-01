@@ -10,3 +10,9 @@ Istall ``tmux`` and setup ``tpm`` first.
 $ git clone https://github.com/Yttehs-HDX/Tmux-config.git ~/.tmux
 $ cp ~/.tmux/.tmux.conf ~/.tmux.conf
 ```
+
+Finally install in tmux session.
+
+```bash
+$ tmux # install all plugins
+```
