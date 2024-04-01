@@ -4,7 +4,7 @@ My tmux custom configuration
 
 # Installation
 
-Istall ``tmux`` first.
+Istall ``tmux`` and setup ``tpm`` first.
 
 ```bash
 $ git clone https://github.com/Yttehs-HDX/Tmux-config.git ~/.tmux
