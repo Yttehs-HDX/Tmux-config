@@ -1,10 +1,10 @@
 # Tmux-config
 
-My tmux custom configuration
+My custom tmux configuration
 
 # Installation
 
-Istall ``tmux`` and setup [``tpm``](https://github.com/tmux-plugins/tpm) first.
+Install ``tmux`` and setup [``tpm``](https://github.com/tmux-plugins/tpm) first.
 
 ```bash
 $ git clone https://github.com/Yttehs-HDX/Tmux-config.git ~/.tmux
