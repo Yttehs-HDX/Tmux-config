@@ -2,6 +2,10 @@
 
 My custom tmux configuration
 
+## Screenshot
+
+![Screenshot](/Screenshot.png)
+
 # Installation
 
 Install ``tmux`` and setup [``tpm``](https://github.com/tmux-plugins/tpm) first.
