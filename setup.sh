@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 BLUE='\033[0;34m'
 RESET='\033[0m'
